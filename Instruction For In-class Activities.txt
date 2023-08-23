@@ -1,0 +1,138 @@
+
+README
+Created by: Anh Nguyen-Duc
+Last updated: 1st Feb 2023
+Purpose: the file documents interactive questions and in-class exercises/ activities for the course CO3001 Software Engineering
+
+***************************************************************************For Autumn 2023 semester, a mindmap tool will be used for lecture rehearsal:
+link: https://miro.com/app/board/uXjVMrnEVBA=/?share_link_id=571719207461
+password: co30012023
+
+***********************
+Lecture 1 & 2:
+Menti interactive questions
+https://www.mentimeter.com/app/presentation/4b03f0a93f22f8621aa7c502e97ea027/e81f05b76015/edit
+
+**************************************************************************************************
+Lecture 2:
+Discussion case about software process model:
+https://docs.google.com/document/d/1S05m-iNqgjqhPTAkPJM6FfoXdnmv6EO4q_drPjeXqTA/edit
+Menti interactive questions:
+https://www.mentimeter.com/app/presentation/430633492a8b3fc55d8a1b1a4104eafe/78d412c69dcf/edit
+
+Q&A about the capstone Project
+https://docs.google.com/spreadsheets/d/1STcuuJ0_5o3rrhK6NtTvteycbaVN5R56Hc8xqL_o6XA/edit#gid=0
+
+**************************************************************************************************
+Lecture 3&4:
+
+Q&A on  the capstone project:
+https://docs.google.com/spreadsheets/d/1-FVlRZ62PFLCLW92koVbdvorSvfjknlPelWPJGe20Dw/edit#gid=1655354121
+
+Exercise on writing functional and non-functional requirements:
+https://docs.google.com/spreadsheets/d/1JAkNwICIopl4gjk_0cP9fJq-54TS1zc004gb3Q5mahI/edit#gid=581184586
+
+Exercie on drawing use-case diagram:
+https://docs.google.com/presentation/d/1NNqqt_LuHjvWQGs5ifE6s88UPA77fG6cmTzmY0oIULU/edit#slide=id.p
+OLD: -----
+https://docs.google.com/presentation/d/1Ves_hQ3z_ZeIYpjs1sIsX-GcpgTSoMMxFjlsxMuDZqU/edit#slide=id.p
+
+Exercise on describing use-case template:
+https://docs.google.com/spreadsheets/d/1VSkq6tS9IAuB7COSbkmexxXQAWoNPu3hJ3ESBwp5Wf4/edit#gid=1226256449
+
+Menti interactive questions about poor quality requirements:
+https://www.menti.com/zbc6zdk9i8
+
+Exercise on requirement conflict:
+https://docs.google.com/spreadsheets/d/1STcuuJ0_5o3rrhK6NtTvteycbaVN5R56Hc8xqL_o6XA/edit?usp=sharing
+
+**************************************************************************************************
+
+Lecture 5:
+
+Problem Statement:
+Write a Java program that models a simple bank account. The bank account has the following properties: account number, account holder name, and balance. The program should allow the user to perform the following operations on the bank account:
+
+Deposit money
+Withdraw money
+Check balance
+Requirements:
+
+Create a BankAccount class with appropriate properties and methods.
+The BankAccount class should have a constructor that initializes the account number, account holder name, and balance.
+The BankAccount class should have methods to deposit, withdraw, and check the balance.
+The program should prompt the user to enter the account number, account holder name, and initial balance for a new bank account.
+The program should create a new BankAccount object using the entered information.
+The program should allow the user to perform the operations on the bank account by selecting an option from a menu.
+The program should handle invalid inputs and prompt the user to enter a valid input.
+Grading:
+
+Correct implementation of the BankAccount class (40%)
+Proper use of object-oriented programming principles (20%)
+Proper implementation of deposit, withdraw, and check balance methods (20%)
+Proper implementation of menu and input validation (20%)
+
+
+
+**************************************************************************************************
+Lecture 5/6:
+
+Exercise on sequence diatram:
+https://docs.google.com/presentation/d/1RQBiSDJ0FEe71oUzc2N_SgFlDpXISF_VDCShCcoOTus/edit#slide=id.p
+
+Menti interactive questions about project progress:
+https://www.mentimeter.com/app/presentation/6b15f0d05a5f92354be62721e8a85ecf/1d38ddefb652/edit
+
+**************************************************************************************************
+Lecture 7:
+
+Small quiz to check up the knowledge on Lecture 7,8:
+https://www.mentimeter.com/app/presentation/53897b760efd1ff6d6fe851cf83bf4bf/4a025469ed4a/edit
+https://www.mentimeter.com/app/presentation/64c499b0c7a96a31c7ae9b10e38087f6/acf1c55b83e8/edit
+
+Small quiz game on architectural styles:
+https://www.mentimeter.com/app/presentation/670c9b350597d8cd7387629a7440ed94/82bea22a7d0a/edit
+
+Interactive questions about Amazon architectural system:
+https://www.mentimeter.com/app/presentation/al46gedi4156to2f1ga8c1a6ikq32rg8/6ie48krcwjj7/edit
+
+Exercise guideline for implementing MVC in class:
+Read and apply the code Inhttps://www.javatpoint.com/mvc-architecture-in-javato view all MCPs FROM the back officers’ view
+Implement MVC model in java:
+https://github.com/anhn/co3001_design_lecture
+
+**************************************************************************************************
+Lecture 8:
+Exercise on code refactoring (may take one hours)
+https://github.com/anhn/co3001_code_refactoring_lecture
+
+**************************************************************************************************
+Lecture 9:
+
+4 exercises on testing (take c.a. 1 hour): 
+https://github.com/anhn/co3001_testing_lecture
+
+**************************************************************************************************
+Lecture 10
+Interactive questions about Agile
+https://www.mentimeter.com/app/presentation/e509cf0d7b668bb4118f12660303ecc7/a3c7e9cad7b8/edit
+https://www.mentimeter.com/app/presentation/aljqkg4sgcpj1oa67sc2y51wsh55x1e3/upuqumn9cdf4/edit
+https://www.mentimeter.com/app/presentation/e509cf0d7b668bb4118f12660303ecc7/13d7a28dc887/edit
+
+Retrospective meeting exercise:
+https://docs.google.com/spreadsheets/d/1H7syEoJL7Pgz1EXcV7kpllXRQEB7LdnwjSvFpQKrEGs/edit#gid=1560258178
+
+**************************************************************************************************
+Lecture 11
+Menti-Kick off with a fun question:
+https://www.mentimeter.com/app/presentation/al8rdrefan5n6rxb9z448rxjfjnx48xh/mfkagj8aduzj/edit
+
+Exercise about CI/CD discussion:
+https://docs.google.com/spreadsheets/d/1wBe23y857N0QwADr1OzblL_BB19Sekk3ERY1H4eShtI/edit#gid=0
+
+**************************************************************************************************
+Lecture 12:
+summary:
+https://docs.google.com/spreadsheets/d/1Am9HKOLgwjM3Uu4SxK4hj594kAu-Tmwsp6TCG-wfCAQ/edit#gid=0
+
+
